@@ -1,0 +1,12 @@
+name: chem274A_lab7
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - numpy
+  - jupyterlab
+  - rdkit
+  - mols2grid
